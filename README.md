@@ -28,3 +28,11 @@ Section:SD-2C
 - Update Member Information
 - Delete Member Record
 - Search Member
+
+Contributor Update
+
+Contributor Name:
+Jherick C. Zaguirre
+
+Feature Added:
+- Digital Library Dashboard
